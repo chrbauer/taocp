@@ -1,7 +1,6 @@
 *~
 tmp/
 result/
-/dist/
-/dist-newstyle/
+/haskell/dist/
+/haskell/dist-newstyle/
 TAGS
-
